@@ -1,7 +1,7 @@
 ````md
 # 🚀 Alphie Tech Responsive Frontend Engineering Masterclass (10 Weeks) – Student Template Repo
 
-Welcome to your official learning repository for the Alphie Tech Web Design Masterclass.
+Welcome to your official learning repository for the Alphie Tech Responsive Frontend Engineering Masterclass (10 Weeks)
 
 This repo is your:
 - learning workspace
