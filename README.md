@@ -19,8 +19,8 @@ This repository is organized into weekly modules.
 You will begin with:
 
 ```txt
-week-1-html/
-week-2-css/
+html/
+css/
 ````
 
 Each contains:
@@ -41,10 +41,10 @@ As the course progresses, YOU will:
 Example:
 
 ```txt
-week-3-tailwind/
-week-4-javascript/
-week-5-dom-manipulation/
-week-6-react-basics/
+tailwind/
+javascript/
+dom-manipulation/
+react-basics/
 ```
 
 ---
@@ -54,7 +54,7 @@ week-6-react-basics/
 Each week MUST follow this structure:
 
 ```txt
-week-{number}-{topic}/
+{topic}/
 │
 ├── instructions.md
 └── boilerplate/
@@ -89,34 +89,6 @@ git push
 ```
 
 ---
-
-# 🧠 Naming Conventions
-
-## ✔ Good
-
-```txt
-week-1-html-basics
-week-2-css-layout
-week-3-tailwind-landing-page
-```
-
-## ❌ Bad
-
-```txt
-Week1
-html stuff
-final project
-assignment_one
-```
-
-Rules:
-
-* lowercase only
-* hyphens only
-* descriptive names
-
----
-
 # ⚠️ Important Rules
 
 * Do NOT delete starter folders
