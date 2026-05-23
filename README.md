@@ -19,8 +19,8 @@ This repository is organized into weekly modules.
 You will begin with:
 
 ```txt
-html/
-css/
+week-1-html/
+week-2-css/
 ````
 
 Each contains:
@@ -41,10 +41,9 @@ As the course progresses, YOU will:
 Example:
 
 ```txt
-tailwind/
-javascript/
-dom-manipulation/
-react-basics/
+week-{no}-tailwind/
+week-{no}-javascript/
+week-{no}-react-basics/
 ```
 
 ---
@@ -54,7 +53,7 @@ react-basics/
 Each week MUST follow this structure:
 
 ```txt
-{topic}/
+week-{no}-{topic}/
 │
 ├── instructions.md
 └── boilerplate/
