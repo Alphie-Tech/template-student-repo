@@ -73,8 +73,8 @@ assignments/
 Example:
 
 ```txt
-assignments/week-1/
-assignments/week-2/
+assignments/week-1-html/
+assignments/week-2-css/
 ```
 
 ---
